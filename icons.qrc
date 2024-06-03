@@ -1,0 +1,11 @@
+<RCC>
+  <qresource prefix="left">
+    <file>image/left.png</file>
+  </qresource>
+  <qresource prefix="Window">
+    <file>image/icon-window.png</file>
+  </qresource>
+  <qresource prefix="right">
+    <file>image/right.png</file>
+  </qresource>
+</RCC>
